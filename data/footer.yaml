@@ -1,0 +1,9 @@
+links:
+  - href: https://ninjabot.statuspage.io/
+    text: Status
+  - href: /
+    text: Usage Docs
+  - href: /internal/
+    text: Ninja Bot Docs
+  - href: https://app.netlify.com/sites/ninjabotdocs/deploys
+    text: Docs Builds

@@ -1,1 +1,1 @@
-# ReadTheDocs
+# Ninja Bot Docs
